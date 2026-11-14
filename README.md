@@ -1,6 +1,6 @@
 # BedReach
 
-**Can't reach your computer from bed? Now you don't have to.**
+I didnt want to buy a Google TV stick, so I told Claude to make me an app to replace the Google TV stick and remote. Below is a description and guide to setting it up.
 
 BedReach turns your Android phone into a remote for your Windows, Linux or Mac computer:
 play/pause, volume, seeking, a touchpad, a keyboard, and one-tap buttons for Netflix, NOW,
